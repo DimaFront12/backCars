@@ -3,6 +3,7 @@ const allowedCors = [
     'http://localhost:3002',
     'http://localhost:3001',
     "http://localhost:5173",
+    "https://admirable-haupia-a001d7.netlify.app",
 ];
 
 function cors(req, res, next) {
